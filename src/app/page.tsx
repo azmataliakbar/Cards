@@ -84,8 +84,8 @@ const HomePage: React.FC = () => {
               className="h-36 w-32 rounded-lg"
               src="/blk5.png"
               alt="GIAIC Card Image"
-              width={128}
-              height={144}
+              width={120}
+              height={800}
             />
           </div>
         </div>
