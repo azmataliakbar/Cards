@@ -13,14 +13,14 @@ const HomePage: React.FC = () => {
           <div>
             <Image
               className="h-36 w-32 rounded-lg object-cover group-hover:hidden"
-              src="/blk1.png"
+              src="/blk2.png"
               alt="Tailwind CSS Logo"
               width={128}
               height={144}
             />
             <Image
               className="h-36 w-32 rounded-lg object-cover hidden group-hover:block"
-              src="/blk2.png"
+              src="/blk1.png"
               alt="Alternate Tailwind CSS Logo"
               width={128}
               height={144}
@@ -47,14 +47,14 @@ const HomePage: React.FC = () => {
           <div>
             <Image
               className="h-36 w-32 rounded-lg object-cover group-hover:hidden"
-              src="/blk6.png"
+              src="/blk7.png"
               alt="John & John Image"
               width={128}
               height={144}
             />
             <Image
               className="h-36 w-32 rounded-lg object-cover hidden group-hover:block"
-              src="/blk7.png"
+              src="/blk6.png"
               alt="Alternate Image for John & John"
               width={128}
               height={144}
