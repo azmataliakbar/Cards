@@ -120,6 +120,7 @@ const HomePage: React.FC = () => {
           </div>
         </div>
       </div>
+      <h4 className='mt-4'>Author: Azmat Ali</h4>
     </main>
   );
 };
